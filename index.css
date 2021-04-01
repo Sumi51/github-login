@@ -1,0 +1,35 @@
+.h{
+    text-align: center;
+    
+}
+.q{
+    text-align: center;
+    font-size: 20px;
+}
+.head1{
+background-color: white;
+width: 280px;
+border-radius: 5px;
+margin-left: 530px;
+}
+.head2{
+ word-spacing: 90px;
+}
+.head3{
+  
+}
+.head4{
+ padding: 15px;
+ margin-left: 515px;
+ 
+ 
+}
+
+input{
+    width: 250px;
+    padding:7px;
+    border-radius: 5px;
+}
+button{
+    padding: 12px;
+}
